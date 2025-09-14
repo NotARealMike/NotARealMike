@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-🧑‍💻 Software engineer, dancer, teacher
-🛠️ Building an object store at DFINITY
-📈 Passionate about software architecture at scale
-🧙 Friendly neighbourhood Emacs wizard
-🇨🇭 Portuguese/British, based in Zürich
+🧑‍💻 Software engineer, dancer, teacher<br>
+🛠️ Building an object store at DFINITY<br>
+📈 Passionate about software architecture at scale<br>
+🧙 Friendly neighbourhood Emacs wizard<br>
+🇨🇭 Portuguese/British, based in Zürich<br>
 
 
 ## 🌐 Socials:
